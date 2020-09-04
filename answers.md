@@ -85,11 +85,21 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 Answer 10:
-No
+No.
 
 Answer 11:
-
+The git push command updated the information I added in the local directory to Git.
 
 Answer 12:
-Git updated the information I added on Git to the local directory.
+The git pull updated the information I added on Git to the local directory.
 
+Answer 13:
+(PowerShell)
+
+    Directory: C:\Users\Danny\Documents\College Stuff\Semester 5\Intro to Computer Science I\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         9/4/2020   6:12 PM            302 .gitignore
+-a----         9/4/2020   6:12 PM             11 README.md
