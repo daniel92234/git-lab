@@ -91,7 +91,7 @@ Answer 11:
 The git push command updated the information I added in the local directory to Git.
 
 Answer 12:
-The git pull updated the information I added on Git to the local directory.
+The git pull command updated the information I added on Git to the local directory.
 
 Answer 13:
 (PowerShell)
